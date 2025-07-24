@@ -5,6 +5,11 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=celestial201" alt="celestial201" /></a> </p>
 
+
+<div align="center">
+  <img src="https://profile-readme-generator.com/assets/snake.svg" alt="Snake animation" />
+</div>
+
 - 🔭 I’m currently working on **Fullstack Webdevelopment projects**
 
 - 🌱 I’m currently learning **Flask,Django,Sql,javascript , Mongodb**
