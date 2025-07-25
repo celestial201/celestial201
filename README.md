@@ -18,7 +18,8 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://linkedin.com/in/https://www.linkedin.com/in/sulagna-chakrabarty-6ab748342/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/sulagna-chakrabarty-6ab748342/" height="30" width="40" /></a>
+<a href="https://www.linkedin.com/in/sulagna-chakrabarty-6ab748342/
+linkedin" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/sulagna-chakrabarty-6ab748342/" height="30" width="40" /></a>
 <a href="https://instagram.com/clayy_slayy" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="clayy_slayy" height="30" width="40" /></a>
 </p>
 
