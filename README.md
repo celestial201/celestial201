@@ -19,8 +19,9 @@
 <h3 align="center">Me when I’m debugging 😤🐒💻</h3>
 
 <p align="center">
-  <img src="https://github.com/celestial201/celestial201/blob/main/monkey-debugging.gif?raw=true" width="300" />
+  <img src="https://github.com/celestial201/celestial201/blob/main/monkey.gif?raw=true" width="300" />
 </p>
+
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
